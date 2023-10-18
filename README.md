@@ -29,14 +29,17 @@ To use this example and experiment with Bazel in your web development projects, 
    cd bazel-react-monorepo-example
    ```
 
-
+## Build and Run
 
 run `bazel run -- @pnpm//:pnpm --dir $PWD install --lockfile-only`
+
 then
+
 run `bazel build //packages/my-app:build`
 
+## Contributing
 Contributing
 Contributions are welcome! If you have improvements or new features to add to this example, please submit pull requests or issues. 
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
