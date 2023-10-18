@@ -14,6 +14,8 @@ Welcome to the Bazel React Monorepo Example! This repository demonstrates how to
 
 As a software engineer, I've often encountered challenges when working with web development frameworks due to the layers of abstraction they introduce. Understanding how the source code gets transformed into an executable is essential for effective software engineering. This repository aims to address this by showcasing the use of Bazel, a powerful build tool, for orchestrating multiple web development projects within a monorepository.
 
+For a more detailed explanation and insights into the concepts used in this project, please refer to our accompanying blog post [here](https://younessssssss.github.io/2023/09/22/getting-started-with-bazel-for-web-developper.html).
+
 ## Project Structure
 
 The project structure follows the principles discussed in the accompanying blog post. Here's a brief overview of the key directories:
@@ -25,7 +27,7 @@ To use this example and experiment with Bazel in your web development projects, 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/bazel-react-monorepo-example.git
+   git clone https://github.com/younessssssss/Bazel-React-Monorepo-Example.git
    cd bazel-react-monorepo-example
    ```
 
